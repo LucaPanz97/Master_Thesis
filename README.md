@@ -14,11 +14,10 @@ CovGlasso in TCLUST is proved to be our most robust and effective solution for a
 
 # Future Steps
 
-1. Comparisons with existing robust clustering algorithms for high-dimensional data: we should compare the results of our algorithm with those of other existing high-dimensional robust clustering algorithms in order to verify if our algorithm is indeed the best in terms of robustness and effectiveness.
-2. Robustness evaluation at different contamination levels: we should investigate how our algorithm performs under different contamination levels, particularly when the outliers are widespread and this level is high.
-3. Performance evaluation on distinct high-dimensional real-world data: we should expand the evaluation of our algorithm to encompass a broader spectrum
-of complex real-world data spanning various fields, such as biomedicine, finance and other relevant domains.
-4. Search for optimal lambda value: we should search for the optimal lambda value to use as an input parameter in our algorithm. We could consider a grid of different lambda value and seek for the lambda that yields the best final outcome.
+1. Comparisons with existing robust clustering algorithms for high-dimensional data: we should compare the results of our algorithm with those of other existing high-dimensional robust clustering algorithms to determine whether our approach excels in terms of robustness and effectiveness.
+2. Robustness evaluation at different contamination levels: we should investigate how our algorithm performs under varying contamination levels, especially when dealing with widespread outliers at high contamination levels.
+3. Performance evaluation on distinct high-dimensional real-world data: we should broaden our algorithm's evaluation to include a diverse range of real-world datasets from various domains, such as biomedicine, finance and other relevant fields.
+4. Search for optimal lambda value: we should explore the search for the optimal lambda value, which is used as an input parameter in our algorithm. We could consider a grid of different lambda values and identify the one that produces the best outcome.
 
 # Authors
 
